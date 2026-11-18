@@ -1,0 +1,6 @@
+{
+  "name": "VoxLead AI",
+  "description": "Intelligent Voice Calling & Lead Qualification Platform powered by Vapi and Google Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
